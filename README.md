@@ -1,10 +1,16 @@
 Tech stack Argumentatie proces
 
 Gebruikte frameworks:
+
 https://github.com/Sebastiaan-hva/react-project
+
 https://github.com/Sebastiaan-hva/react-project/blob/main/README.md
+
 https://github.com/Sebastiaan-hva/astro-project
+
 https://github.com/Sebastiaan-hva/11ty
+
+
 
 Formuleer een standpunt en selecteer argumenten: Als je een standpunt hebt inventariseer je welke argumenten voor en welke argumenten tegen je kunt geven. Schrijf die op (en geef ze een simpele variabelenaam, A, B, C, D, E, F etc.)
 
